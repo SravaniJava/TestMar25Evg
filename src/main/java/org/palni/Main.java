@@ -9,5 +9,6 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
         System.out.println("test1");
+        System.out.println("this is from child1");
         }
     }
