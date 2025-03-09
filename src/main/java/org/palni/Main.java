@@ -10,6 +10,6 @@ public class Main {
 
         System.out.println("test1");
         System.out.println("this is from child1");
-
+        System.out.println("test from master");
         }
     }
